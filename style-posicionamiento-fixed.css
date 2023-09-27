@@ -1,0 +1,36 @@
+h1 {
+    position: fixed;
+    margin-top: 0px;
+    border: solid #33354D;
+    width: 900px;
+}
+
+section {
+    margin-right: 20%;
+    margin-left: 20%;
+    width: auto;
+    text-align: justify;
+}
+
+h2 {
+    background-color: #33354D;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    background-color: #26A631;
+    margin-top: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+div {
+    border: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+p {
+    background-color: #FFFFFF;
+}
